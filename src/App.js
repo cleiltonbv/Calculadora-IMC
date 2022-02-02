@@ -25,7 +25,7 @@ export default function App(){
 
    return(
     <div className="app">
-      <h1>Calculadora IMC</h1>
+      <h1>Calculadora </h1>
       <span>Vamos calcular seu imc</span>
 
     <div className="area-input">
